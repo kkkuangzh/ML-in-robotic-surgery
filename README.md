@@ -14,4 +14,3 @@ In addition to the urgent needs of the market, government policies and supports 
 
 Machine learning (ML) is an essential part of AI that aims at training robust models with real- world data. The robot itself is an emerging technology, where ML can help build accurate control models over robots and perform secure and efficient surgery. This blog will focus on ML in surgical workflow and explore some of the most relevant applications. In each scenario, a brief introduction of related ML algorithms is given to help readers with no background to understand better.
 
-
